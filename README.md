@@ -1,2 +1,2 @@
 # TS-forecasting
-Prediction sales in Ecuador stores
+Prediction of sales in Ecuador stores
